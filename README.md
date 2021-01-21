@@ -1,6 +1,6 @@
 # simple_quiz_app
 
-A new Flutter project.
+this is a simple offline quiz application made using flutter. 
 
 ## Getting Started
 
